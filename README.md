@@ -1,4 +1,4 @@
 # Graphs
 Graph Algorithms and Problems in C++
 
-NOTE: All the code solutions are for single component based graphs.
+Follow [TakeuForward Graph Series](https://www.youtube.com/watch?v=YTtpfjGlH2M&list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw)
